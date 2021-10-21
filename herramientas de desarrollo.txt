@@ -1,0 +1,26 @@
+Consultas DEMOS:
+Demos Perú:
+Ruc Premium: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sunat/?ruc=40647328
+Ruc Estándar: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sunat_consultas/?ruc=40647328
+Ruc Básico: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sunat_consultas/consultaRuc/?numRuc=40647328
+Consulta Validez Individual de CPE: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/valida_cpe/?numRuc=20537400901&tipo=01&serie=F001&numero=1945&fechaEmision=21/01/2021&importe=460.20
+Validez del CPE: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sunat_consultas/validez_cpe/?numRuc=20537400901&tipo=01&tipo_doc_receptor=&doc_receptor=&serie=F001&numero=1945&fechaEmision=21/01/2021&importe=460.20
+Comprobante Xml: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sunat/cpe_xml/?numRuc=20537400901&tipo=01&serie=F001&numero=1945
+Dni: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/reniec_basic/?dni=40647328
+Dni2: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/reniec/?dni=40647328
+Tipo de Cambio Actual: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/tipo_cambio/actual
+Tipo de Cambio Fecha: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/tipo_cambio/fecha/?dia=31&mes=07&anio=2021
+Tipo de Cambio Mes: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/tipo_cambio/?mes=07&anio=2021
+
+Demos Ecuador:
+Ruc: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sri/?ruc=1001556008001
+Cédula:
+Por Número de Cédula:
+http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/cedula_ec/?nui=1001556008
+Consulta valores a pagar por placa:
+http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sri/vehiculo/?numPlaca=XXXXXX
+Descarga Masiva de Comprobantes electrónicos recibidos:
+http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/sri/comprobantes_recibidos/?ruc=USUARIO_SRI&clave=CLAVE_SRI&ano=2020&mes=04&dia=0&tipo_comprobante=0
+
+Demo Colombia:
+Nit: http://api.consulta.fenix-erp.com/v1/82e414d56b9d4243c3efc98025685f4a/dian/?nit=816003591
